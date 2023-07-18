@@ -17,7 +17,13 @@ the other packages are installed as a dependency from these
 ## run in pycharm
 Have file `run.py` or `recognition.py` open in editor 
 
-## bug 2023-07-18
+## crash fixed 2023-07-18
+
+### update
+[Added this fix](https://stackoverflow.com/questions/75926662/face-recognition-problem-with-face-encodings-function) 
+and now the code seems to work!
+
+### before update
 The code runs for a while but then crashes with the following message:
 
 ```py
